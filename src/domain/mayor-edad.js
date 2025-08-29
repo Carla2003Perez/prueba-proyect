@@ -1,11 +1,11 @@
-export const esMayorDeEdad = (edad) => {
+function esMayorDeEdad (edad)  {
   if (typeof edad !== "number" || isNaN(edad)) {
-    throw new Error("La edad debe ser un número válido");
+    throw new Error("Edad invalida");/**numero no instruc */
   }
-
-  if (edad < 0) {
-    throw new Error("La edad no puede ser negativa");
+   if (edad < 0) {
+    throw new Error("Edad invalida");/*negativo* */
   }
-
   return edad >= 18;
 };
+
+module.exports = { esMayorDeEdad };

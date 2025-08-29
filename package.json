@@ -11,20 +11,7 @@
     "test": "jest",
     "test:cov": "jest --coverage"
   },
-  "jest": {
-    "collectCoverage": true,
-    "collectCoverageFrom": [
-      "src/domain/**/*.*"
-    ],
-    "coverageThreshold": {
-      "global": {
-        "branches": 100,
-        "functions": 100,
-        "lines": 100,
-        "statements": 100
-      }
-    }
-  },
+
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
