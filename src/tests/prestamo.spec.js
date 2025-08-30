@@ -17,7 +17,7 @@ describe("puedeAprobarPrestamo", () => {
     expect(puedeAprobarPrestamo({ edad: 65, ocupacion: "retirado", tieneDeudas: false })).toBe(true);
   });
 
-  test("retirado con deudas NO aprueba", () => {
+  test("retirado con deudas no aprueba", () => {
     expect(puedeAprobarPrestamo({ edad: 70, ocupacion: "retirado", tieneDeudas: true })).toBe(false);
   });
 

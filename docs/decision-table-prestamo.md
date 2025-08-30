@@ -9,7 +9,7 @@ Condiciones
 ![alt text](image.png)
 
 ----Lo que entendi en mi logica-----
-Condicion 1: El estudiante no tiene deudas, entonces el préstamo es Falso porque no aprueba
+Condicion 1: l estudiante no tiene deudas, entonces el préstamo es Falso porque no aprueba
 Condicion 2: Estudiante sí tiene deudas, entonces el préstamo es Falso.
 condicion 3: El retirado no tiene deudas, entonces el préstamo es Verdadero, si se aprueba
 condicion 4: El retirado sí tiene deudas, entonces el préstamo es Falso.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1756522981248" clover="3.2.0">
-  <project timestamp="1756522981249" name="All files">
+<coverage generated="1756529138492" clover="3.2.0">
+  <project timestamp="1756529138492" name="All files">
     <metrics statements="17" coveredstatements="17" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2" elements="33" coveredelements="33" complexity="0" loc="17" ncloc="17" packages="1" files="2" classes="2"/>
     <file name="mayor-edad.js" path="C:\Users\carla\Documents\Universidad\Decimo ciclo\Aseguramiento de la Calidad De Software\prueba\prueba-proyect\src\domain\mayor-edad.js">
       <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
