@@ -9,9 +9,9 @@ Condiciones
 ![alt text](image.png)
 
 ----Lo que entendi en mi logica-----
-Condicion 1: Persona es estudiante y no tiene deudas, entonces el préstamo es Falso porque no aprueba
-Condicion 2: Persona es estudiante y sí tiene deudas, entonces el préstamo es  Falso.
-condicion 3: Persona es retirado y no tiene deudas, entonces el préstamo es Verdadero, si se aprueba
-condicion 4: Persona es retirado y sí tiene deudas, entonces el préstamo es Falso.
-condicion 5: Persona es trabajador y no tiene deudas,entonces el préstamo es Verdadero.
-condicion 6: Persona es trabajador y sí tiene deudas, entonces el préstamo es Verdadero.
+Condicion 1: El estudiante no tiene deudas, entonces el préstamo es Falso porque no aprueba
+Condicion 2: Estudiante sí tiene deudas, entonces el préstamo es Falso.
+condicion 3: El retirado no tiene deudas, entonces el préstamo es Verdadero, si se aprueba
+condicion 4: El retirado sí tiene deudas, entonces el préstamo es Falso.
+condicion 5: El trabajador no tiene deudas,entonces el préstamo es Verdadero.
+condicion 6: El trabajador sí tiene deudas, entonces el préstamo es Verdadero.
