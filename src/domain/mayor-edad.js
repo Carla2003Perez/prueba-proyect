@@ -1,9 +1,9 @@
 function esMayorDeEdad (edad)  {
   if (typeof edad !== "number" || isNaN(edad)) {
-    throw new Error("Edad invalida");/**numero no instruc */
+    throw new Error("Edad invalida");/**tiene que ser numero */
   }
    if (edad < 0) {
-    throw new Error("Edad invalida");/*negativo* */
+    throw new Error("Edad invalida");/*numeros negativos no pueden */
   }
   return edad >= 18;
 };

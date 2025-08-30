@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1756477139421" clover="3.2.0">
-  <project timestamp="1756477139422" name="All files">
-    <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1" elements="13" coveredelements="13" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+<coverage generated="1756522981248" clover="3.2.0">
+  <project timestamp="1756522981249" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2" elements="33" coveredelements="33" complexity="0" loc="17" ncloc="17" packages="1" files="2" classes="2"/>
     <file name="mayor-edad.js" path="C:\Users\carla\Documents\Universidad\Decimo ciclo\Aseguramiento de la Calidad De Software\prueba\prueba-proyect\src\domain\mayor-edad.js">
       <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
-      <line num="2" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="2" count="14" type="cond" truecount="4" falsecount="0"/>
       <line num="3" count="3" type="stmt"/>
-      <line num="5" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="11" type="cond" truecount="2" falsecount="0"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="8" count="4" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
+      <line num="8" count="10" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+    </file>
+    <file name="prestamo.js" path="C:\Users\carla\Documents\Universidad\Decimo ciclo\Aseguramiento de la Calidad De Software\prueba\prueba-proyect\src\domain\prestamo.js">
+      <metrics statements="11" coveredstatements="11" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="6" type="stmt"/>
+      <line num="11" count="6" type="stmt"/>
+      <line num="13" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

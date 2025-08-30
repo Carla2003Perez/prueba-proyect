@@ -1,0 +1,2 @@
+# Tabla de Decisión - puedeAprobarPrestamo
+
